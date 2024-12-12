@@ -1,0 +1,14 @@
+table
+    {border:1px solid rgb(31, 184, 33);
+    border-collapse:collapse;
+    background-color: rosybrown;
+}
+th,td{
+    text-allign:centre;
+    padding:10px;
+
+}
+th {
+    background-color: seagreen;
+    color:aliceblue
+}

@@ -1,0 +1,59 @@
+body
+    {
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        background-color:lightblue;
+        margin: 0;
+        height: 100vh;
+        background-image: url(disco.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+h1{
+    /* background-color:rgb(104, 106, 109) ; */
+    text-align: center;
+    color: rgb(251, 251, 251);
+
+}    
+.custom-input{
+    background-color:rgb(222, 216, 216);
+
+}
+form{
+    /* background-color:rgb(104, 106, 109); */
+    padding: 80px;
+    width: 400px;
+    height: 400px;
+    margin: 10;
+
+}
+input{
+    width: 300px;
+    padding: 10;
+    border-radius: 5px;
+    height: 25px;
+}
+div{
+    background-color: rgb(52, 52, 52);
+    margin:0 ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+button{
+    cursor: pointer;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding: 10;
+    text-align: center;
+    height: 25px;
+    width: 77%;
+    background-color: palegreen;
+
+}
+
